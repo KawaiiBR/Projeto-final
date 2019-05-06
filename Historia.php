@@ -52,7 +52,7 @@
                         <li><a href="Quem_Somos.php">Quem Somos</a></li>
                         <li class="active"><a href="Historia.php">História</a></li>
                         <li><a href="Noticias.php">Noticias</a></li>
-                        <li><a href="#">Contato</a></li>
+                        <li><a href="Contato.php">Contato</a></li>
                     </ul>                       
                 </div>             
             </div>
